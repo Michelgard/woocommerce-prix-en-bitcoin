@@ -8,4 +8,4 @@ Deux fonctions à mettre dans le fichier function.php du thème:
    -- Une fonction pour les produits avec plusieurs modèles et tarifs. avec affichage A partir de :
    
 
-
+Ajout de code dans le fichier class-wc-product-variable.php pour avoir le prix en Bitcoin des différent modèle de produit.
